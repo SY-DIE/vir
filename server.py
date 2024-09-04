@@ -12,6 +12,8 @@ HOST = '0.0.0.0' # '192.168.43.82'
 PORT = 10000 # 2222
 FORMAT = 'utf-8'
 print("Hello World!")
+test = input()
+print(test)
 # You can delete here after change HOST
 #if HOST == '127.0.0.1':
 #    print(f"[!] Don't forget to change default HOST:{HOST} to your HOST:{socket.gethostbyname(socket.gethostname())} in both server and client")
