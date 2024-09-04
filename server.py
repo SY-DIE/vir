@@ -8,7 +8,7 @@ Date: September 2022
 import socket
 
 # Creating Listening Port
-HOST = '26.204.122.121' # '192.168.43.82'
+HOST = '216.24.57.4' # '192.168.43.82'
 PORT = 8081 # 2222
 FORMAT = 'utf-8'
 print("Hello World!")
